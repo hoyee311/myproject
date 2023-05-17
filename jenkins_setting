@@ -1,0 +1,5 @@
+[Jenkins] Jenkins - Spring Boot 프로젝트 jar/war 배포
+- Jenkins 환경 구축
+- 소스관리 : Github
+- Build : Jenkins (openjdk-11 으로 진행.)
+- Service : Spring boot jar/war
